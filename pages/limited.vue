@@ -9,7 +9,7 @@
         <div class="card-body">
             <h5 class="card-title">Buly1803限定</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary" onclick="AddToCart('Buly1803限定+1')">我想買</a>
+            <a href="#" class="btn btn-primary" onclick="AddToCart('Buly1803限定+1')">加入購物車</a>
         </div>
     </div>
     <br>
@@ -22,7 +22,7 @@
         <div class="card-body">
             <h5 class="card-title">Etudehouse聖誕節限定版</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary" onclick="AddToCart('Etudehouse聖誕節限定版+1')">我想買</a>
+            <a href="#" class="btn btn-primary" onclick="AddToCart('Etudehouse聖誕節限定版+1')">加入購物車</a>
         </div>
     </div>
     <br>
@@ -35,7 +35,7 @@
         <div class="card-body">
             <h5 class="card-title">歐舒丹牛年限定版</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary" onclick="AddToCart('歐舒丹牛年限定版+1')">我想買</a>
+            <a href="#" class="btn btn-primary" onclick="AddToCart('歐舒丹牛年限定版+1')">加入購物車</a>
         </div>
     </div>
     <br>
@@ -48,7 +48,7 @@
         <div class="card-body">
             <h5 class="card-title">innisfree迪士尼限定版</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary" onclick="AddToCart('innisfree迪士尼限定版+1')">我想買</a>
+            <a href="#" class="btn btn-primary" onclick="AddToCart('innisfree迪士尼限定版+1')">加入購物車</a>
         </div>
     </div>
 </div>
