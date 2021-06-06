@@ -3,14 +3,14 @@
     <b-card v-bind:title="title" v-bind:img-src="imgsrc" img-alt="Image" img-top tag="article" style="max-width: 20rem;" class="mb-2">
         <b-card-text>
             {{text}}
-        </b-card-text>        
+        </b-card-text>               
         <div class="row">
         <b-button v-on:click="sub()" variant="light">-</b-button>
         <p>{{ count }}</p>
         <b-button v-on:click="add()" variant="light">＋</b-button>
         </div>
         <br>
-        <b-button variant="outline-primary">加入購物車</b-button>        
+        <b-button variant="outline-primary">加入購物車</b-button>              
     </b-card>
 </div>
 </template>
