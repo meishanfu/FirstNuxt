@@ -4,10 +4,11 @@
         <b-card-text>
             {{text}}
         </b-card-text>
-
+        <div class="row">
         <b-button v-on:click="add()" variant="primary">＋</b-button>
         <p>{{ count }}</p>
         <b-button v-on:click="sub()" variant="primary">-</b-button>
+        </div>
         <b-button variant="danger">加入購物車</b-button>
     </b-card>
 </div>
