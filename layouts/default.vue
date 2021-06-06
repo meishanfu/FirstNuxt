@@ -22,10 +22,6 @@
                   </NuxtLink>
                 </li>
 
-                <li class="nav-item active">
-                    <a class="btn btn-light" href="products.html">部落格 <span class="sr-only">(current)</span></a>
-                </li>
-
             </ul>
             <form class="form-inline">
                 <a class="btn btn-light" href="login.html">會員登入</a>

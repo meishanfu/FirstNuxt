@@ -26,13 +26,15 @@ export default {
     },
     methods: {
         add: function () {
-            this.count = this.count + 1;
+            if (this.count < 10){
+                this.count = this.count + 1;    
+            } 
         },
         sub: function () {
             if (this.count > 1) {
                 this.count = this.count - 1;
             } else {
-                this.count = 1
+                this.count = 1                
             }
         }
     }
